@@ -1,0 +1,19 @@
+@media screen and (max-width: 425px) {
+    .bg-pattern-top {
+        width: 58%;
+        top: -593px;
+    }
+
+    .bg-pattern-bottom {
+        width: 65%;
+        left: 35%;
+    }
+
+    .card-container {
+        width: 88%;
+    }
+
+    .card-footer ul:nth-of-type(2) {
+        padding: 0 15%;
+    }
+}
